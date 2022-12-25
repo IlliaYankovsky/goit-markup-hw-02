@@ -67,6 +67,7 @@ header {
 }
 
 .hat_header_pages {
+  font-weight: 500;
   letter-spacing: 0.02em;
   color: var(--first-title-color);
   flex: none;
